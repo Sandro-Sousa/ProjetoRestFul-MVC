@@ -1,0 +1,17 @@
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\Service.dll
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\DataAcess.dll
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\Entity.dll
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\bin\Debug\net5.0\Entity.pdb
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.dll
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\Service\obj\Debug\net5.0\Service.pdb
