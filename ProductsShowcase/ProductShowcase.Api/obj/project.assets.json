@@ -2240,11 +2240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\ProductShowcase.Api\\ProductShowcase.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\ProductShowcase.Api\\ProductShowcase.Api.csproj",
       "projectName": "ProductShowcase.Api",
-      "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\ProductShowcase.Api\\ProductShowcase.Api.csproj",
+      "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\ProductShowcase.Api\\ProductShowcase.Api.csproj",
       "packagesPath": "C:\\Users\\Sandr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\ProductShowcase.Api\\obj\\",
+      "outputPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\ProductShowcase.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2261,8 +2261,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Service\\Service.csproj"
+            "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Service\\Service.csproj"
             }
           }
         }

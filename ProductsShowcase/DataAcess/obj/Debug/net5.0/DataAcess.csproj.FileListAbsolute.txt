@@ -16,3 +16,21 @@ C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\DataAcess\obj\Debug\net5.0\Data
 C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll
 C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.pdb
 C:\Users\Sandr\OneDrive\Desktop\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.genruntimeconfig.cache
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\DataAcess.deps.json
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\DataAcess.runtimeconfig.json
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\DataAcess.runtimeconfig.dev.json
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\DataAcess.dll
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\ref\DataAcess.dll
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\Entity.dll
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\bin\Debug\net5.0\Entity.pdb
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.csprojAssemblyReference.cache
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CopyComplete
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.dll
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.pdb
+C:\Users\Sandr\OneDrive\Desktop\Projetos Rest-Web\ProductsShowcase\DataAcess\obj\Debug\net5.0\DataAcess.genruntimeconfig.cache

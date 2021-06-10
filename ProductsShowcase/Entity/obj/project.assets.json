@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Entity\\Entity.csproj",
+      "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\Sandr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Entity\\obj\\",
+      "outputPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sandr\\AppData\\Roaming\\NuGet\\NuGet.Config",

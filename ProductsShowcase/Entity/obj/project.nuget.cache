@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "auZBE4BZkSEC3cHB9si8TUt8yl4NT4prbDNmsgyGGyfVu4olJqofzMbnvUGl2unoBceH/m/gYTyN7PlTWqU6nA==",
+  "dgSpecHash": "2jIwps++qN4YIrJqEaICrDWY5kZ/JfG5OFl3/4nuh184jc8xthQnGuzM9+aEkZ54QHrF7hcxUJSaB8ZWigB+FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Entity\\Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

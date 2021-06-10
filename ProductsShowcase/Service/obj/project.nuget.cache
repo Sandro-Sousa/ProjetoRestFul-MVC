@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aIkwALjPZXqavPGcSoyFe6q60mTEjkN8SUYlMHBwt7QnZFgyPp7SGZ8XhjDgJzhRgCUHGa6hVxPL40rwWecA4A==",
+  "dgSpecHash": "W1mdqqIUxLTpQOp1xsYoGvrXfytfT2md/IlHbYQ0I51HFLHz2wbVdA9gf4kLIoecRa4i+vxJbZCnCCmqlr+puw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Sandr\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.2\\microsoft.data.sqlclient.2.1.2.nupkg.sha512",

@@ -22,8 +22,19 @@ namespace ProductShowcase.Api.Controllers
         {
             return await produtoService.BuscarProdutos();
         }
+        [Route("{id}")]
+        [HttpGet]
+        public async Task<ActionResult<Produto>> GetId(int? id)
+        {
+            if (id == null)
+                return BadRequest("Por favor, Forneça o Id Corretamente");
+            else
+            {
+                return await produtoService.BuscarId(id);
+            }
+        }
 
-        [HttpPost]
+       [HttpPost]
         public async Task<ActionResult<Produto>> PostProduto([FromBody] Produto data)
         {
             if(!ModelState.IsValid)
@@ -45,7 +56,8 @@ namespace ProductShowcase.Api.Controllers
             }
         }
 
-        [HttpPut("{id}")]
+        [Route("{id}")]
+        [HttpPut]
         public async Task<ActionResult<Produto>> PutProduto(int id, [FromBody] Produto produto)
         {
             if (id != produto.CodigoId)
@@ -62,6 +74,26 @@ namespace ProductShowcase.Api.Controllers
                 catch (Exception e)
                 {
 
+                    return BadRequest(e);
+                }
+            }
+        }
+
+        [Route("{id}")]
+        [HttpDelete]
+        public async Task<ActionResult<Produto>> Delete(int? id)
+        {
+            if (id == null)
+                return BadRequest("Por favor Forneça o Id");
+            else
+            {
+                try
+                {
+                    var data = await produtoService.DeletarProduto(id);
+                    return Ok(data);
+                }
+                catch (Exception e)
+                {
                     return BadRequest(e);
                 }
             }

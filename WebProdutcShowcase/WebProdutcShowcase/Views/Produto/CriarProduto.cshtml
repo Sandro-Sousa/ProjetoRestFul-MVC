@@ -1,0 +1,37 @@
+﻿@model WebProdutcShowcase.Models.Produto
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>CriarProduto</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form action="CriarProduto" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <h4>@ViewBag.message</h4>
+                <label> Nome do Produto :</label><br />
+                <input type="text" class="form-control" style="min-width:" id="Nome" name="Nome" /><br />
+            </div>
+            <div class="form-group">
+                <label> Quantidade em Estoque :</label><br />
+                <input type="number" class="form-control" style="min-width:300px" id="Estoque" name="Estoque" /><br />
+            </div>
+            <div class="form-group">
+                <label> Preco :</label><br />
+                <input type="number" class="form-control" style="min-width:300px" id="Preco" name="Preco" /><br /><br />
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-success" value="Submit" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<p>
+    <a asp-action="Index">Voltar</a><br />
+</p>
+

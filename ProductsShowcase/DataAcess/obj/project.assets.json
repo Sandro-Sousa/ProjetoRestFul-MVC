@@ -1923,11 +1923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\DataAcess\\DataAcess.csproj",
+      "projectUniqueName": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\DataAcess\\DataAcess.csproj",
       "projectName": "DataAcess",
-      "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\DataAcess\\DataAcess.csproj",
+      "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\DataAcess\\DataAcess.csproj",
       "packagesPath": "C:\\Users\\Sandr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\DataAcess\\obj\\",
+      "outputPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\DataAcess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1944,8 +1944,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\Entity\\Entity.csproj"
+            "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\Entity\\Entity.csproj"
             }
           }
         }

@@ -1,14 +1,14 @@
 ﻿@model IEnumerable<WebProdutcShowcase.Models.Produto>
-
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Index</h1>
+
+<h1>Produto Lista</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="CriarProduto">Adicionar Produto</a>
 </p>
 <table class="table">
     <thead>
@@ -25,30 +25,62 @@
             <th>
                 @Html.DisplayNameFor(model => model.Preco)
             </th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.CodigoId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Estoque)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Preco)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-}
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => produto.CodigoId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => produto.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => produto.Estoque)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => produto.Preco)
+                </td>
+                <td>
+                    @Html.ActionLink("Atualizar", "Edit", new { id=produto.CodigoId })
+                    <a href="#" onclick="ShowModal(@produto.CodigoId)">Deletar</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Confirmar</h4>
+            </div>
+            <div class="modal-body">
+                <h5>você deseja excluir este produto?</h5>
+            </div>
+            <div class="modal-footer">
+                <form action="@Url.Action("Delete", "Produto")" method="post">
+                    <input type="hidden" id="produtoId" name="produtoId" />
+                    <button type="submit" class="btn btn-success">Deletar</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        function ShowModal(id) {
+            $("#produtoId").val(id)
+            $("#myModal").modal("show");
+        }
+    </script>
+}

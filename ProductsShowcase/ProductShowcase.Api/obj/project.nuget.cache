@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jgKw0PqPG+QTqDtXxoAAXZcr81tEaOiVOimITBztxGt2YThtZYLA48WXwdFBud6mmHRb4JwTIX8rK+UzCYyyIA==",
+  "dgSpecHash": "/VnVt+kX4y9QzCuqdyq5CzXRfhTszsnQ0uHQZedVx7WwFwhtL7lUerN3svV41l+y+I3vWtmhPsM8Tc8ykspuuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\ProductsShowcase\\ProductShowcase.Api\\ProductShowcase.Api.csproj",
+  "projectFilePath": "C:\\Users\\Sandr\\OneDrive\\Desktop\\Projetos Rest-Web\\ProductsShowcase\\ProductShowcase.Api\\ProductShowcase.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sandr\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.6\\microsoft.aspnetcore.jsonpatch.5.0.6.nupkg.sha512",

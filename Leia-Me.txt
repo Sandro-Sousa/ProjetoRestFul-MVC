@@ -1,0 +1,2 @@
+                                  Bom Dia!
+ Projeto Realizado com a Metodologia DDD, Configurado assim para realizar Migration e assim Utilizar, Inicie a Api(ProductsShowcase) e Após Inicie a (WebProdutcShowcase) para Uma Utilização Assíncrona, Obrigado!
